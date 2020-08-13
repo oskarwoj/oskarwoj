@@ -20,4 +20,3 @@ REPO: [https://github.com/oskarwoj/todos-list-react/](https://github.com/oskarwo
 
 <img align="center" alt="HTML" src="https://raw.githubusercontent.com/oskarwoj/oskarwoj/master/images/html.png" /> HTML <img align="center" alt="CSS" src="https://raw.githubusercontent.com/oskarwoj/oskarwoj/master/images/css.png" /> CSS <img align="center" alt="Javascript" src="https://raw.githubusercontent.com/oskarwoj/oskarwoj/master/images/js.png" /> JS <img align="center" alt="React" src="https://raw.githubusercontent.com/oskarwoj/oskarwoj/master/images/react.png" /> REACT <img align="center" alt="sql" src="https://raw.githubusercontent.com/oskarwoj/oskarwoj/master/images/sql.png" /> SQL <img align="center" alt="vba" src="https://raw.githubusercontent.com/oskarwoj/oskarwoj/master/images/vba.png" /> VBA
 
-<img alt="My GitHub stats" src="https://github-readme-stats.vercel.app/api?username=oskarwoj&count_private=true" />
