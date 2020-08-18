@@ -4,6 +4,12 @@ A high performing individual who possess a broad and deep knowledge of finance a
 
 # PROJECTS
 
+## Mario Memory:
+
+LIVE: [https://oskarwoj.github.io/memory/](https://oskarwoj.github.io/memory/)
+
+REPO: [https://github.com/oskarwoj/memory/](https://github.com/oskarwoj/memory/)
+
 ## Currency Converter:
 
 LIVE: [https://oskarwoj.github.io/currency_converter-react/](https://oskarwoj.github.io/currency_converter-react/)
