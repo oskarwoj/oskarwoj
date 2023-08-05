@@ -4,7 +4,7 @@ A high performing individual who possess a broad and deep knowledge of finance a
 
 # PROJECTS
 
-## Mario Memory (in progress):
+## Mario Memory:
 
 LIVE: [https://oskarwoj.github.io/memory/](https://oskarwoj.github.io/memory/)
 
